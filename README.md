@@ -110,8 +110,6 @@ File
 
 ---
 
-Open the "index.html" file in a web browser. Enter a city name in the search box and click Search to view its current weather information.
-
 Author
 
 Mahima Sharma
